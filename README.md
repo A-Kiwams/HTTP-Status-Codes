@@ -27,6 +27,8 @@ Status codes in HTTP
 | ---------------- | -------------------- |
 | Header | Titile | 
 | Paragragh | Text |
+| Paragragh | Text |
+| Paragragh | Text |
 
 
 
