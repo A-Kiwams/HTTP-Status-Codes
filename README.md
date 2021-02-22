@@ -24,6 +24,9 @@ Status codes in HTTP
 205 Reset Content
 
 | Codes | Description |
+| ---------------- | -------------------- |
+| Header | Titile | 
+| Paragragh | Text |
 
 
 
