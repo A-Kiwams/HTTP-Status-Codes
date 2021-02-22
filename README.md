@@ -3,8 +3,8 @@ Status codes in HTTP
 
 # Information responses
 
-100
+100  continue
 
-101
+101  switching protocals
 
-102
+102  processing
