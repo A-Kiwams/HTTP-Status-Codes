@@ -30,6 +30,5 @@
 | 305 | Use Proxy |
 | 306 | Unused |
 | 307 | Temporary Redirect |
-| 308 | Already Reported |
 
 
