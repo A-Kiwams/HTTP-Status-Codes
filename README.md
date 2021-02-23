@@ -2,9 +2,18 @@
 
 ## 1xx - INFORMATION RESPONSES
 
-| Syntax | Description |
+| 1xx | INFORMATION RESPONSES |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 100 | Continue |
+| 101 | Switching Protocols |
+| 102 | Processing |
+| 103 | Early Hints |
+
+| ## 1xx | ## INFORMATION RESPONSES |
+| ----------- | ----------- |
+| 100 | Continue |
+| 101 | Switching Protocols |
+| 102 | Processing |
+| 103 | Early Hints |
 
 
