@@ -44,18 +44,18 @@
 | 408 | Request Timeout |
 | 409 | Conflict |
 | 410 | Gone |
-| 411 | Lenght Required |
-| 412 | Not Modified |
-| 413 | Use Proxy |
-| 414 | Unused |
-| 415 | Temporary Redirect |
-| 416 | Found |
-| 417 | See Other |
-| 418 | Not Modified |
-| 421 | Use Proxy |
-| 422 | Unused |
-| 423 | Temporary Redirect |
-| 424 | Use Proxy |
+| 411 | Length Required |
+| 412 | Precondition Failed |
+| 413 | Payload Too Large |
+| 414 | URI Too Long |
+| 415 | Unsupported Media Type |
+| 416 | Requested Range Not Satisfiable |
+| 417 | Expectation Failed |
+| 418 | I'm a teapot |
+| 421 | Misdirected Request |
+| 422 | Unprocessable Entity |
+| 423 | Locked |
+| 424 | Failed Dependency |
 | 425 | Unused |
 | 426 | Temporary Redirect |
 | 428 | Use Proxy |
