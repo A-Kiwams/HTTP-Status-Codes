@@ -56,14 +56,14 @@
 | 422 | Unprocessable Entity |
 | 423 | Locked |
 | 424 | Failed Dependency |
-| 425 | Unused |
-| 426 | Temporary Redirect |
-| 428 | Use Proxy |
-| 429 | Unused |
-| 431 | Temporary Redirect |
-| 444 | Temporary Redirect |
-| 451 | Use Proxy |
-| 499 | Unused |
+| 425 | Too Early |
+| 426 | Upgrade Required |
+| 428 | Precondition Required |
+| 429 | Too Many Request |
+| 431 | Request Header Fields Too Large |
+| 444 | Connection Closed Without Response |
+| 451 | Unavailable For Legal Reasons |
+| 499 | Client Closed Request |
 
 
 
