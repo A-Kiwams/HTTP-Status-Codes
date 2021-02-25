@@ -67,18 +67,18 @@
 
 | 5xx | Server error |
 | ----------- | ----------- |
-| 500 | Ok |
-| 501 | Created |
-| 502 | Accepted |
-| 503 | Non-Authoritative Information |
-| 504 | No Content |
-| 505 | Reset Content |
-| 506 | Partial Content |
-| 507 | Multi-Status |
-| 508 | Already Reported |
-| 510 | IM Used |
-| 511 | Already Reported |
-| 519 | IM Used |
+| 500 | Internal Server Error |
+| 501 | Not Implemented |
+| 502 | Bad Gateway |
+| 503 | Service Unavailable |
+| 504 | Gateway Timeout |
+| 505 | HTTP Version Not Supported |
+| 506 | Varient Also Negotiate |
+| 507 | Insufficient Storage |
+| 508 | Loop Detected |
+| 510 | Not Extended |
+| 511 | Network Authentication Required |
+| 519 | Timeout Error For Network Connection |
 
 
 
