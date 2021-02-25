@@ -65,6 +65,21 @@
 | 451 | Unavailable For Legal Reasons |
 | 499 | Client Closed Request |
 
+| 5xx | Server error |
+| ----------- | ----------- |
+| 500 | Ok |
+| 501 | Created |
+| 502 | Accepted |
+| 503 | Non-Authoritative Information |
+| 504 | No Content |
+| 505 | Reset Content |
+| 506 | Partial Content |
+| 507 | Multi-Status |
+| 508 | Already Reported |
+| 510 | IM Used |
+| 511 | Already Reported |
+| 519 | IM Used |
+
 
 
 
