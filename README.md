@@ -1,4 +1,4 @@
-# HTTP STATUS CODES 
+# HTTP STATUS CODES AND RESPONSE
 
 | 1xx | INFORMATION RESPONSES |
 | ----------- | ----------- |
