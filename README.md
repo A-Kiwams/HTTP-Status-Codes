@@ -80,9 +80,6 @@
 | 511 | Network Authentication Required |
 | 519 | Timeout Error For Network Connection |
 
-| 511 | Network Authentication Required |
-| 519 | Timeout Error For Network Connection |
-
 
 
 
